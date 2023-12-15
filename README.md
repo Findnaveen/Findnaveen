@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Naveen passinated EthicalHacking
+- 👋 Hi, I’m Naveen 
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning Back-end
 - 📫 How to reach me findnaveenkannan@gmail.com
